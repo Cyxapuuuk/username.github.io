@@ -1,0 +1,13 @@
+.fio {
+margin: 300px auto;
+background: #65524e;
+width: 1000px;
+height: 200px;
+padding: 70px 6px;
+border-radius: 10px;
+}
+.text{
+font-size: 2rem;
+color: #FBCEB1;
+text-align: center;
+}
